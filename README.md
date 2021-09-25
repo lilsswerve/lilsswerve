@@ -2,7 +2,7 @@
 ### Hi, I’m Georgi Georgiev (@lilsswerve)
 
 ## Matmatician
-- I’m interested in math, R, JS, C++
+- I’m interested in math, R, C++
 - Studying Math in Sofia University FMI
 - I'm looking to improve my code skills
 
